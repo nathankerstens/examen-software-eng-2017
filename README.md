@@ -1,4 +1,4 @@
-# examen-software-eng-2017
+# Examen Software Engineering 2017
 
 Hallo iedereen,
 
