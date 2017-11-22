@@ -1,0 +1,10 @@
+C:\Users\Maxim\Documents\Software Engeniering\SoftwareEngeniering\yathzee\Yathzee\Yathzee\obj\Debug\Yathzee.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\Documents\Software Engeniering\SoftwareEngeniering\yathzee\Yathzee\Yathzee\obj\Debug\Yathzee.Properties.Resources.resources
+C:\Users\Maxim\Documents\Software Engeniering\SoftwareEngeniering\yathzee\Yathzee\Yathzee\obj\Debug\Yathzee.YahtzeeGame.resources
+C:\Users\Maxim\Documents\Software Engeniering\SoftwareEngeniering\yathzee\Yathzee\Yathzee\obj\Debug\Yathzee.csproj.GenerateResource.Cache
+C:\Users\Maxim\Documents\Software Engeniering\SoftwareEngeniering\yathzee\Yathzee\Yathzee\obj\Debug\Yathzee.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Documents\Software Engeniering\SoftwareEngeniering\yathzee\Yathzee\Yathzee\bin\Debug\Yathzee.exe.config
+C:\Users\Maxim\Documents\Software Engeniering\SoftwareEngeniering\yathzee\Yathzee\Yathzee\bin\Debug\Yathzee.exe
+C:\Users\Maxim\Documents\Software Engeniering\SoftwareEngeniering\yathzee\Yathzee\Yathzee\bin\Debug\Yathzee.pdb
+C:\Users\Maxim\Documents\Software Engeniering\SoftwareEngeniering\yathzee\Yathzee\Yathzee\obj\Debug\Yathzee.exe
+C:\Users\Maxim\Documents\Software Engeniering\SoftwareEngeniering\yathzee\Yathzee\Yathzee\obj\Debug\Yathzee.pdb
