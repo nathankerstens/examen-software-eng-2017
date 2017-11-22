@@ -1,0 +1,9 @@
+C:\Users\nikyd\Documents\KDG\2MCT\Software engineering\DiceGame\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+C:\Users\nikyd\Documents\KDG\2MCT\Software engineering\DiceGame\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+C:\Users\nikyd\Documents\KDG\2MCT\Software engineering\DiceGame\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+C:\Users\nikyd\Documents\KDG\2MCT\Software engineering\DiceGame\DiceGame\DiceGame\obj\Debug\DiceGame.csprojResolveAssemblyReference.cache
+C:\Users\nikyd\Documents\KDG\2MCT\Software engineering\DiceGame\DiceGame\DiceGame\obj\Debug\DiceGame.Form1.resources
+C:\Users\nikyd\Documents\KDG\2MCT\Software engineering\DiceGame\DiceGame\DiceGame\obj\Debug\DiceGame.Properties.Resources.resources
+C:\Users\nikyd\Documents\KDG\2MCT\Software engineering\DiceGame\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.GenerateResource.Cache
+C:\Users\nikyd\Documents\KDG\2MCT\Software engineering\DiceGame\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+C:\Users\nikyd\Documents\KDG\2MCT\Software engineering\DiceGame\DiceGame\DiceGame\obj\Debug\DiceGame.pdb
